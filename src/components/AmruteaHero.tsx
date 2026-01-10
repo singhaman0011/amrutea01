@@ -4,7 +4,7 @@ const AmruteaHero = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=1920&q=80"
+          src="https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=1920&q=80"
           alt="Luxury tea experience"
           className="w-full h-full object-cover animate-scale-in"
           style={{ animationDuration: '1.5s' }}

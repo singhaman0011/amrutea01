@@ -7,7 +7,7 @@ const AmruteaStory = () => {
           <div className="relative animate-fade-in-up">
             <div className="aspect-[4/5] rounded-sm overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+                src="https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&q=80"
                 alt="Tea artisan at work"
                 className="w-full h-full object-cover"
               />

@@ -1,32 +1,32 @@
 const lifestyleImages = [
   {
     id: 1,
-    src: "https://images.unsplash.com/photo-1515696955266-4f67e13219e8?w=600&q=80",
+    src: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=600&q=80",
     alt: "Morning tea ritual",
   },
   {
     id: 2,
-    src: "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=600&q=80",
+    src: "https://images.unsplash.com/photo-1558160074-4d7d8067fb90?w=600&q=80",
     alt: "Tea ceremony",
   },
   {
     id: 3,
-    src: "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?w=600&q=80",
+    src: "https://images.unsplash.com/photo-1597318181409-cf64d0b5d8a2?w=600&q=80",
     alt: "Tea leaves",
   },
   {
     id: 4,
-    src: "https://images.unsplash.com/photo-1563822249366-3efb23b8e0c9?w=600&q=80",
+    src: "https://images.unsplash.com/photo-1594631252845-29fc4cc8cde9?w=600&q=80",
     alt: "Luxury tea set",
   },
   {
     id: 5,
-    src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+    src: "https://images.unsplash.com/photo-1563911892437-b86f0b795586?w=600&q=80",
     alt: "Tea garden",
   },
   {
     id: 6,
-    src: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=600&q=80",
+    src: "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=600&q=80",
     alt: "Tea time",
   },
 ];
