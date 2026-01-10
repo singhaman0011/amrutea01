@@ -4,7 +4,7 @@ const products = [
     name: "Emperor's Gold",
     category: "Premium Blend",
     price: "₹2,450",
-    image: "https://images.unsplash.com/photo-1597318181409-cf64d0b5d8a2?w=600&q=80",
+    image: "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?w=600&q=80",
     featured: true,
   },
   {
@@ -12,7 +12,7 @@ const products = [
     name: "Darjeeling First Flush",
     category: "Black Tea",
     price: "₹1,850",
-    image: "https://images.unsplash.com/photo-1594631252845-29fc4cc8cde9?w=600&q=80",
+    image: "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=600&q=80",
     featured: false,
   },
   {
@@ -20,7 +20,7 @@ const products = [
     name: "Himalayan Chamomile",
     category: "Herbal Infusion",
     price: "₹980",
-    image: "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=600&q=80",
+    image: "https://images.unsplash.com/photo-1563911892437-b86f0b795586?w=600&q=80",
     featured: false,
   },
   {
@@ -28,7 +28,7 @@ const products = [
     name: "Ceylon Silver Tips",
     category: "White Tea",
     price: "₹3,200",
-    image: "https://images.unsplash.com/photo-1563822249366-3efb23b8e0c9?w=600&q=80",
+    image: "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=600&q=80",
     featured: false,
   },
 ];
