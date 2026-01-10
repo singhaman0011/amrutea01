@@ -3,14 +3,14 @@ const collections = [
     id: 1,
     title: "Herbal Infusions",
     subtitle: "Nature's Healing Touch",
-    image: "https://images.unsplash.com/photo-1597318181409-cf64d0b5d8a2?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=800&q=80",
     description: "Pure botanical blends for wellness and serenity",
   },
   {
     id: 2,
     title: "Black Teas",
     subtitle: "Bold & Distinguished",
-    image: "https://images.unsplash.com/photo-1594631252845-29fc4cc8cde9?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?w=800&q=80",
     description: "Rich, full-bodied classics from premier estates",
   },
   {
