@@ -4,12 +4,12 @@ const AmruteaHero = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=1920&q=80"
-          alt="Luxury tea experience"
+          src="https://images.unsplash.com/photo-1571934811356-5cc061b6821f?w=1920&q=80"
+          alt="Luxury tea ceremony - elegant teacup in warm natural light"
           className="w-full h-full object-cover animate-scale-in"
           style={{ animationDuration: '1.5s' }}
         />
-        <div className="absolute inset-0 bg-gradient-to-b from-background/40 via-background/20 to-background" />
+        <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/30 to-background" />
       </div>
 
       {/* Content */}

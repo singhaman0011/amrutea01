@@ -2,32 +2,32 @@ const lifestyleImages = [
   {
     id: 1,
     src: "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=600&q=80",
-    alt: "Morning tea ritual",
+    alt: "Elegant ceramic teapot with steam",
   },
   {
     id: 2,
     src: "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?w=600&q=80",
-    alt: "Tea ceremony",
+    alt: "Traditional tea ceremony setup",
   },
   {
     id: 3,
-    src: "https://images.unsplash.com/photo-1558160074-4d7d8067fb90?w=600&q=80",
-    alt: "Tea leaves",
+    src: "https://images.unsplash.com/photo-1594631252845-29fc4cc8cde9?w=600&q=80",
+    alt: "Premium loose leaf tea",
   },
   {
     id: 4,
-    src: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=600&q=80",
-    alt: "Luxury tea set",
+    src: "https://images.unsplash.com/photo-1523920290228-4f321a939b4c?w=600&q=80",
+    alt: "Herbal tea infusion",
   },
   {
     id: 5,
-    src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
-    alt: "Tea garden",
+    src: "https://images.unsplash.com/photo-1455853828816-0c301a011711?w=600&q=80",
+    alt: "Tea leaves close-up",
   },
   {
     id: 6,
-    src: "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7?w=600&q=80",
-    alt: "Tea time",
+    src: "https://images.unsplash.com/photo-1558160074-4d7d8067fb90?w=600&q=80",
+    alt: "Morning tea moment",
   },
 ];
 
