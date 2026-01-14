@@ -32,7 +32,7 @@ const collections = [
     id: 4,
     title: "White Teas",
     subtitle: "Delicate & Refined",
-    image: "https://images.unsplash.com/photo-1558160074-4d7d8067fb90?w=800&q=80",
+    image: "https://plus.unsplash.com/premium_photo-1674406481284-43eba097a291?w=800&q=80",
     description: "The rarest and most prized tea leaves",
   },
   {
