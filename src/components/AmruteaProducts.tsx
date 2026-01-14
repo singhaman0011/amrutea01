@@ -12,7 +12,7 @@ const products = [
     name: "Darjeeling First Flush",
     category: "Black Tea",
     price: "₹1,850",
-    image: "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?w=600&q=80",
+    image: "https://images.unsplash.com/photo-1455853828816-0c301a011711?w=600&q=80",
     featured: false,
   },
   {
@@ -20,7 +20,7 @@ const products = [
     name: "Himalayan Chamomile",
     category: "Herbal Infusion",
     price: "₹980",
-    image: "https://images.unsplash.com/photo-1558160074-4d7d8067fb90?w=600&q=80",
+    image: "https://images.unsplash.com/photo-1523920290228-4f321a939b4c?w=600&q=80",
     featured: false,
   },
   {
@@ -28,7 +28,7 @@ const products = [
     name: "Ceylon Silver Tips",
     category: "White Tea",
     price: "₹3,200",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+    image: "https://images.unsplash.com/photo-1558160074-4d7d8067fb90?w=600&q=80",
     featured: false,
   },
 ];
